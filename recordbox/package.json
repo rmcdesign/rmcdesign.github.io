@@ -2,6 +2,7 @@
   "name": "recordbox",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://rmcdesign.github.io/recordbox",
   "devDependencies": {
     "react-scripts": "0.4.1"
   },
